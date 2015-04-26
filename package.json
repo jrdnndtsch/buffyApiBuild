@@ -1,0 +1,27 @@
+{
+  "name": "buffyApiDev",
+  "version": "1.0.0",
+  "description": "Buffy API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrdnndtsch/buffyApiBuild.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrdnndtsch/buffyApiBuild/issues"
+  },
+  "homepage": "https://github.com/jrdnndtsch/buffyApiBuild",
+  "devDependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.12.3",
+    "gulp": "^3.8.11",
+    "mongoose": "^4.0.2",
+    "morgan": "^1.5.2"
+  }
+}
